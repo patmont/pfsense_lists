@@ -1,0 +1,18 @@
+### block ad hosts
+
+### Jalopnik.com
+doubleclick.net
+imrworldwide.com
+kinja.com
+taboola.com
+kinja-static.com
+scorecardresearch.com
+krxd.net
+quantserve.com
+chartbeat.com
+skimresources.com
+google-analytics.com
+rubiconproject.com
+googletagservices.com
+indexww.com
+kinja-img.com
