@@ -40,6 +40,7 @@ def is_valid_ipv4(address):
 
     return True
 
+
 def get_ipinfo():
     url = "http://ipinfo.io/AS2906"
     print(str("Reading from "+url))
@@ -57,10 +58,11 @@ def get_ipinfo():
     return ip_list
 
 if __name__ == "__main__":
-    file = open('NetflixIPs.txt', 'w')
+    filename = 'netflix_ips.txt'
+    file = open(filename, 'w')
     addresses = get_ipinfo()
     for n in addresses:
         file.write("%s\n" % n)
     file.close()
     count = str(len(addresses))
-    print(str('Wrote ' + count + " ip addresses to NetflixIps.txt"))
+    print(str('Wrote ' + count + " ip addresses to " + filename))
