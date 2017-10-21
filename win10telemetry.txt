@@ -1,10 +1,3 @@
-65.55.108.23
-65.39.117.230
-23.218.212.69
-134.170.30.202
-137.116.81.24
-204.79.197.200
-23.218.212.69
 a-0001.a-msedge.net
 choice.microsoft.com
 choice.microsoft.com.nstac.net
